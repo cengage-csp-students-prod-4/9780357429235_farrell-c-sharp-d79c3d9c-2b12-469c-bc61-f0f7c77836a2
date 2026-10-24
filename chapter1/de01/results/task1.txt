@@ -1,12 +1,6 @@
 
-Status: FAILED!
-Reason: Unable to run DebugOne1.cs
-Error: Cannot open assembly 'DebugOne1.exe': No such file or directory.
-
-Timestamp: 2026-10-24 01:52:16.359742
-
-Status: FAILED!
-Reason: Unable to run DebugOne1.cs
-Error: Cannot open assembly 'DebugOne1.exe': No such file or directory.
-
-Timestamp: 2026-10-24 01:52:16.359826
+Status: PASSED!
+Check: 1
+Test: Program Outputs Correctly
+Reason: None
+Timestamp: 2026-10-24 01:54:06.451054
