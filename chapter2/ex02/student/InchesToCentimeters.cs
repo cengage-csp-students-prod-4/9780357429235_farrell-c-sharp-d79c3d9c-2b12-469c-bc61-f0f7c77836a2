@@ -5,6 +5,9 @@ class InchesToCentimeters
 {
 	static void Main()
 	{
-		// Write your code here
+		const double CENTIMETERS_IN_A_INCH = 2.54;
+		var inches = 2;
+
+		Console.WriteLine($" ")
 	}
 }
