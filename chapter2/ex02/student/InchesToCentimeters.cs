@@ -8,6 +8,6 @@ class InchesToCentimeters
 		const double CENTIMETERS_IN_A_INCH = 2.54;
 		var inches = 2;
 
-		Console.WriteLine($" ")
+		Console.WriteLine($"{inches} inches is {inches*CENTIMETERS_IN_A_INCH} centimeters");
 	}
 }
