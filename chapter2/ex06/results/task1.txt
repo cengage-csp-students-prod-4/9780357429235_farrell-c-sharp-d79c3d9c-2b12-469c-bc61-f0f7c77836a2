@@ -1,22 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Correct moving fee displayed case 1
-Reason: Unable to find '['$15,090.00']' in the program's output.
-How long will we be there: 
-How many miles will we travel: 
-For a move taking 99 hours and going 20 miles the estimate is 15090
-.
-Error : AssertionError - Unable to find $15,090.00 in the program's output.
-Timestamp: 2026-10-29 18:30:41.172824
+Reason: None
+Timestamp: 2026-10-29 18:39:53.049730
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Correct moving fee displayed case 2
-Reason: Unable to find '['$4,060.00']' in the program's output.
-How long will we be there: 
-How many miles will we travel: 
-For a move taking 25 hours and going 55 miles the estimate is 4060
-.
-Error : AssertionError - Unable to find $4,060.00 in the program's output.
-Timestamp: 2026-10-29 18:30:41.192689
+Reason: None
+Timestamp: 2026-10-29 18:39:53.073520

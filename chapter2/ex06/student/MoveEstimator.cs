@@ -18,7 +18,10 @@ class InchesToCentimeters
 		int miles = Convert.ToInt32(Console.ReadLine());
 
 
-		Console.WriteLine($"For a move taking {hours} hours and going {miles} miles the estimate is {(BASE_RATE_PER_MOVE)+(HOUR_RATE*hours)+(MILE_RATE*miles)}");
+		//calc total 
+		var total = (BASE_RATE_PER_MOVE)+(HOUR_RATE*hours)+(MILE_RATE*miles);
+
+		Console.WriteLine($"For a move taking {hours} hours and going {miles} miles the estimate is {total.ToString("C", CultureInfo.GetCultureInfo("en-US"))}");
 	
 	}
 }
