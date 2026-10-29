@@ -1,15 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Output in specified format
-Reason: Unable to find '['3 inches is 7.62 centimeters']' in the program's output.
-2 inches is 5.08 centimeters
-.
-Error : AssertionError - Unable to find 3 inches is 7.62 centimeters in the program's output.
-Timestamp: 2026-10-29 15:01:40.359363
+Reason: None
+Timestamp: 2026-10-29 17:48:34.422308
 
 Status: PASSED!
 Check: 2
 Test: Did not hard code answers into program's output
 Reason: WriteLine("3 inches is 7.62 centimeters"); ` was found in the program.None
-Timestamp: 2026-10-29 15:01:40.359904
+Timestamp: 2026-10-29 17:48:34.423022
