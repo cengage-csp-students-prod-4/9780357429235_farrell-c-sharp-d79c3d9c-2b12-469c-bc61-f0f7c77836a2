@@ -3,10 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Correct moving fee displayed case 1
 Reason: None
-Timestamp: 2026-10-29 18:39:53.049730
+Timestamp: 2026-10-29 18:40:03.495148
 
 Status: PASSED!
 Check: 2
 Test: Correct moving fee displayed case 2
 Reason: None
-Timestamp: 2026-10-29 18:39:53.073520
+Timestamp: 2026-10-29 18:40:03.518290
