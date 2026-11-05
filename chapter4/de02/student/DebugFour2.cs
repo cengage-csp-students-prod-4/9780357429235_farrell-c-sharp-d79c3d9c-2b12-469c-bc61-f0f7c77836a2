@@ -29,7 +29,7 @@ class DebugFour2
          WriteLine("Numbers are in reverse order");
       }
       else{
-         WriteLine("Numbers are in neither sequential nor reverse order");
+         WriteLine($"Numbers are in neither sequential nor reverse order {num1} {num2} {num3}");
       }
    
    }

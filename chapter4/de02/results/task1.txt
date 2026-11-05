@@ -3,34 +3,34 @@ Status: PASSED!
 Check: 1
 Test: Sequential order, test 1
 Reason: None
-Timestamp: 2026-11-05 03:08:38.101892
+Timestamp: 2026-11-05 03:10:41.378874
 
 Status: FAILED!
 Check: 2
 Test: Sequential order, test 2
 Reason: Unable to find '['Numbers are in sequential order']' in the program's output.
-Enter first number Enter second number Enter third number Numbers are in neither sequential nor reverse order
+Enter first number Enter second number Enter third number Numbers are in neither sequential nor reverse order 2 2 2
 .
 Error : AssertionError - Unable to find Numbers are in sequential order in the program's output.
-Timestamp: 2026-11-05 03:08:38.122304
+Timestamp: 2026-11-05 03:10:41.398510
 
 Status: PASSED!
 Check: 3
 Test: Reverse order, test 1
 Reason: None
-Timestamp: 2026-11-05 03:08:38.142062
+Timestamp: 2026-11-05 03:10:41.418442
 
 Status: FAILED!
 Check: 4
 Test: Reverse order, test 2
 Reason: Unable to find '['Numbers are in reverse order']' in the program's output.
-Enter first number Enter second number Enter third number Numbers are in neither sequential nor reverse order
+Enter first number Enter second number Enter third number Numbers are in neither sequential nor reverse order 3 2 2
 .
 Error : AssertionError - Unable to find Numbers are in reverse order in the program's output.
-Timestamp: 2026-11-05 03:08:38.160958
+Timestamp: 2026-11-05 03:10:41.437828
 
 Status: PASSED!
 Check: 5
 Test: Neither sequential or reverse order
 Reason: None
-Timestamp: 2026-11-05 03:08:38.179860
+Timestamp: 2026-11-05 03:10:41.460567
