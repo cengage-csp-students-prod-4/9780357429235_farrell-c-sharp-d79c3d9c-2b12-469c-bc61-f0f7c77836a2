@@ -1,84 +1,42 @@
 
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
+Status: PASSED!
+Check: 1
+Test: Category 5 hurricane
+Reason: None
+Timestamp: 2026-11-05 02:59:12.835370
 
-Timestamp: 2026-11-05 02:49:17.946327
+Status: PASSED!
+Check: 2
+Test: Category 4 hurricane
+Reason: None
+Timestamp: 2026-11-05 02:59:12.853967
 
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
+Status: PASSED!
+Check: 3
+Test: Category 3 hurricane
+Reason: None
+Timestamp: 2026-11-05 02:59:12.872391
 
-Timestamp: 2026-11-05 02:49:17.946417
+Status: PASSED!
+Check: 4
+Test: Category 2 hurricane
+Reason: None
+Timestamp: 2026-11-05 02:59:12.891258
 
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
+Status: PASSED!
+Check: 5
+Test: Category 1 hurricane
+Reason: None
+Timestamp: 2026-11-05 02:59:12.909821
 
-Timestamp: 2026-11-05 02:49:17.958721
+Status: PASSED!
+Check: 6
+Test: Not a hurricane
+Reason: None
+Timestamp: 2026-11-05 02:59:12.928488
 
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:17.958784
-
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:17.970994
-
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:17.971080
-
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:17.982896
-
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:17.982949
-
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:17.994730
-
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:17.994784
-
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:18.007112
-
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:18.007188
-
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:18.019862
-
-Status: FAILED!
-Reason: Unable to run Hurricane.cs
-Error: Cannot open assembly 'Hurricane.exe': No such file or directory.
-
-Timestamp: 2026-11-05 02:49:18.019947
+Status: PASSED!
+Check: 7
+Test: Category 3 hurricane case 2
+Reason: None
+Timestamp: 2026-11-05 02:59:12.946757
