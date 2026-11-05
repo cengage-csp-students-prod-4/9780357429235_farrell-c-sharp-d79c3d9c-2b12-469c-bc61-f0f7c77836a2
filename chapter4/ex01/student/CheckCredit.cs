@@ -5,6 +5,17 @@ class CheckCredit
 {
 	static void Main()
 	{
-		// Write your code here
+		Console.WriteLine("Enter your credit limit:");
+		double userCredit = Convert.ToDouble(Console.ReadLine());
+
+
+		if (userCredit > 8000)
+		{
+			Console.WriteLine("You have exceeded the credit limit");
+		}
+		else
+		{
+			Console.WriteLine("Approved");
+		}
 	}
 }
