@@ -48,7 +48,7 @@ class TemperaturesComparison
 		//cold
 		else if (temp[0] > temp[1] && temp[1] > temp[2] && temp[2] > temp[3] && temp[3] > temp[4])
 		{
-			Console.Write("Getting colder: ");
+			Console.Write("Getting cooler: ");
 			for (int i = 0; i < 5; i++)
 			{
 				Console.Write(temp[i]);
