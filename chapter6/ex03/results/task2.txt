@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: Getting cooler
+Reason: Unable to find '['Getting cooler', '99 95 94 90 88', '93.2']' in the program's output.
+Please enter a number between -30 through 130: 
+Please enter a number between -30 through 130: 
+Please enter a number between -30 through 130: 
+Please enter a number between -30 through 130: 
+Please enter a number between -30 through 130: 
+Getting colder: 99 95 94 90 88 
+Average: 93.2.
+Error : AssertionError - 
+Timestamp: 2026-11-19 19:14:54.302520
