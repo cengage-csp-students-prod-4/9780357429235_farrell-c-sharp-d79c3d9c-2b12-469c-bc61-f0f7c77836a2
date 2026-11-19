@@ -14,7 +14,7 @@ class DebugSix01
       
       for(int x = 0; x < items.Length; x++){
          //WriteLine("{0,12} for {1,10}}");
-         WriteLine($" {items[x]}, {prices[x].ToString("C", CultureInfo.GetCultureInfo("en-US")) } ");
+         Write($" {items[x]}, {prices[x].ToString("C", CultureInfo.GetCultureInfo("en-US")) } ");
       }
       
    }
