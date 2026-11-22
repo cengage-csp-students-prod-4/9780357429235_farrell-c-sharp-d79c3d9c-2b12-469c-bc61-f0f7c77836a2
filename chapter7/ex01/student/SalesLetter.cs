@@ -5,9 +5,10 @@ class SalesLetter
 {
 	static void DisplayContactInfo()
 	{
-		Console.WriteLine("Phone: 123-456-9999");
-		Console.WriteLine("Email: idk@gmail.com");
-		Console.WriteLine("Website: mcr.com");
+ 		WriteLine("C# Company");
+       WriteLine("Phone: 555-1234     Cell: 555-0912");
+       WriteLine("Email: csharpcompany@csharp.com");
+       WriteLine("On the Web at www.csharpcompanyforyou.com");
 	}
 	static void Main()
 	{
