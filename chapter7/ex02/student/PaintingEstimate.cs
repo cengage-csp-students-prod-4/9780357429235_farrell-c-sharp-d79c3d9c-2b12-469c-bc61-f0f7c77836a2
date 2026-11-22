@@ -8,7 +8,7 @@ class PaintingEstimate
 
 	static double PriceEstimate(double length, double width)
 	{
-		return (2*(length*HIEGHT) + 2*(width*HIEGHT) + (length*width))*PRICE_PER_SQFT;
+		return (2*(length*HIEGHT) + 2*(width*HIEGHT) + (length*width));
 	}
 	static void Main()
 	{
