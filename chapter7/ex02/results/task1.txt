@@ -1,16 +1,24 @@
 
 Status: FAILED!
-Check: 1
-Test: Successful Output II
-Reason: Unable to find '['3,456.00']' in the program's output.
-.
-Error : AssertionError - Unable to find 3,456.00 in the program's output.
-Timestamp: 2026-11-22 18:37:47.580273
+Reason: Unable to run PaintingEstimate.cs
+Error: Cannot open assembly 'PaintingEstimate.exe': No such file or directory.
+
+Timestamp: 2026-11-22 18:38:14.300167
 
 Status: FAILED!
-Check: 2
-Test: Successful Output I
-Reason: Unable to find '['2,268.00']' in the program's output.
-.
-Error : AssertionError - Unable to find 2,268.00 in the program's output.
-Timestamp: 2026-11-22 18:37:47.593016
+Reason: Unable to run PaintingEstimate.cs
+Error: Cannot open assembly 'PaintingEstimate.exe': No such file or directory.
+
+Timestamp: 2026-11-22 18:38:14.300247
+
+Status: FAILED!
+Reason: Unable to run PaintingEstimate.cs
+Error: Cannot open assembly 'PaintingEstimate.exe': No such file or directory.
+
+Timestamp: 2026-11-22 18:38:14.312344
+
+Status: FAILED!
+Reason: Unable to run PaintingEstimate.cs
+Error: Cannot open assembly 'PaintingEstimate.exe': No such file or directory.
+
+Timestamp: 2026-11-22 18:38:14.312406
