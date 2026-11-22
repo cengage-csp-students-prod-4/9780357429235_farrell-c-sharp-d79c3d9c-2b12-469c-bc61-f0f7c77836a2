@@ -1,24 +1,22 @@
 
 Status: FAILED!
-Reason: Unable to run PaintingEstimate.cs
-Error: Cannot open assembly 'PaintingEstimate.exe': No such file or directory.
-
-Timestamp: 2026-11-22 18:38:53.228344
-
-Status: FAILED!
-Reason: Unable to run PaintingEstimate.cs
-Error: Cannot open assembly 'PaintingEstimate.exe': No such file or directory.
-
-Timestamp: 2026-11-22 18:38:53.228441
-
-Status: FAILED!
-Reason: Unable to run PaintingEstimate.cs
-Error: Cannot open assembly 'PaintingEstimate.exe': No such file or directory.
-
-Timestamp: 2026-11-22 18:38:53.241468
+Check: 1
+Test: Successful Output II
+Reason: Unable to find '['3,456.00']' in the program's output.
+Enter length of the room in feet >>
+Enter width of the room in feet >>
+Cost of job for 12 X 20 foot room is ¤4,896.00
+.
+Error : AssertionError - Unable to find 3,456.00 in the program's output.
+Timestamp: 2026-11-22 18:39:32.243549
 
 Status: FAILED!
-Reason: Unable to run PaintingEstimate.cs
-Error: Cannot open assembly 'PaintingEstimate.exe': No such file or directory.
-
-Timestamp: 2026-11-22 18:38:53.241553
+Check: 2
+Test: Successful Output I
+Reason: Unable to find '['2,268.00']' in the program's output.
+Enter length of the room in feet >>
+Enter width of the room in feet >>
+Cost of job for 9 X 12 foot room is ¤2,916.00
+.
+Error : AssertionError - Unable to find 2,268.00 in the program's output.
+Timestamp: 2026-11-22 18:39:32.264031

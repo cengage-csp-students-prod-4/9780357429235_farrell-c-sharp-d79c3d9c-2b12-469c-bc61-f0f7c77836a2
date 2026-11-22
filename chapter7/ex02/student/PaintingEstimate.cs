@@ -1,14 +1,13 @@
 using System;
 using static System.Console;
 using System.Globalization;
-using System.ComponentModel.DataAnnotations;
 class PaintingEstimate
 {
+	const double HIEGHT = 9;
+	const double PRICE_PER_SQFT = 6;
 
 	static double PriceEstimate(double length, double width)
 	{
-		const double HIEGHT = 9;
-		const double PRICE_PER_SQFT = 6;
 		return (2*(length*HIEGHT) + 2*(width*HIEGHT) + (length*width))*PRICE_PER_SQFT;
 	}
 	static void Main()
