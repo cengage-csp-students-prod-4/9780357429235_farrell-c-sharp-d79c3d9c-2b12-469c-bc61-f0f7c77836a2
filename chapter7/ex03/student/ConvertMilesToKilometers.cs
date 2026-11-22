@@ -3,9 +3,9 @@ using static System.Console;
 using System.Globalization;
 class ConvertMilesToKilometers
 {
-	static double ConvertToKilometers(double miles)
+	const double MILE_TO_KM = 1.60934;
+	public static double ConvertToKilometers(double miles)
 	{
-		const double MILE_TO_KM = 1.60934;
 		return miles*MILE_TO_KM;
 	}
 	static void Main()
